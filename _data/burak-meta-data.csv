@@ -1,0 +1,8 @@
+objectid,filename,format,registration_number,title,subject,object_classification,material,measurement,colour,cultural_influence,manufacture_place,locations,price,placement,usage_context,position,face_expression,body_part_position,false_gesture,description
+dmc1,dmc1.jpeg,image/jpeg,DMC 1,Buddha Holding  Pot,Interior Decorative,,,,,Chinese,,TK Maxx Bochum,10,,,,,,,
+dmc2,dmc2.jpeg,image/jpeg,DMC 2,Buddha Holding  Pot,Interior Decorative,,,,,Japan,,TK Maxx Bochum,5,,,,,,,
+dmc3,dmc3.jpeg,image/jpeg,DMC 3,Buddha Holding  Pot,Interior Decorative,,,,,German,,TK Maxx Bochum,7,,,,,,,
+dmc4,dmc4.jpeg,image/jpeg,DMC 4,Overview Display,market arranging,,,,,Turkish,,Tedi Bochum,8,,,,,,,
+dmc5,dmc5.jpeg,image/jpeg,DMC 5,Buddha Binding Hands,Garden Decorative,,,,,Irish,,Tedi Bochum,9,,,,,,,
+dmc6,dmc6.jpeg,image/jpeg,DMC 6,Buddha Binding Hands,Garden Decorative,,,,,Italian,,Rewe,5,,,,,,,
+dmc7,dmc7.jpeg,image/jpeg,DMC 7,Buddha Binding Hands,Garden Decorative,,,,,French,,Aldi,35,,,,,,,
