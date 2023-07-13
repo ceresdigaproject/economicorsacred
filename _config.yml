@@ -34,7 +34,7 @@ author: Burak and Stepan
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: Stepan.Burak.MeDa.13.07.2023
+metadata: burak-meta-data
 
 ##########
 # Site/Organization Branding 
