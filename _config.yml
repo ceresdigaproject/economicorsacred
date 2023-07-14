@@ -20,21 +20,22 @@ source-code: https://github.com/ceresdigaproject/economicorsacred
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Popular Culture or Holy Figures
+title: "Buddhist Symbols in Everyday Life:"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The Buddhists Objects from Germany
+tagline: "Popular Culture Products or Sacred Objects"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: " A sample for our group work "
+description: "Accessibility of Buddha Statues in Daily Life: Consumer Demand or Increased Belief?"
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Burak and Stepan
+author: "Burak Celikpence and Stepan Musharov"
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: burak-meta-data
+metadata: bs-meta-data-14-07
 
 ##########
 # Site/Organization Branding 
