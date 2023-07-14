@@ -8,7 +8,7 @@ permalink: /material.html
 cloud-fields: material
 ---
 
-## Browse Locations
+## Browse Material
 
 Use this word cloud visualization to browse material.
 Word size is determined by frequency and all words link to a corresponding collection search.
