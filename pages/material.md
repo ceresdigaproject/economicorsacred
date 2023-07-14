@@ -7,3 +7,8 @@ permalink: /material.html
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.material-fields
 ---
+
+## Browse Locations
+
+Use this word cloud visualization to browse locations.
+Word size is determined by frequency and all words link to a corresponding collection search.
