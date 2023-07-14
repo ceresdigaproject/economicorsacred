@@ -34,6 +34,14 @@ locations-fields: locations # set the field to be featured in the cloud
 locations-min: 1 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
+
+##########
+# MATERIAL PAGE
+#
+material-fields: material # set the field to be featured in the cloud
+material-min: 1 # min size for subject cloud, too many terms = slow load time!
+material-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+
 ##########
 # MAP PAGE
 #
